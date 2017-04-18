@@ -1,4 +1,4 @@
-# My Bookstore App
+# My Bookstores App
 ##### An Online Retail Management and Custommer Order Processing System
 
 
@@ -19,7 +19,7 @@ http://www.4shared.com/office/AEf2a-PW/Binder2.html
 	* Top sold products
 	* The monthly sales revenue and purchases being made by the store
 	
-### Guide to installing myBookstoreApp into your machine
+### Guide to installing myBookStoreApp into your machine
 Prerequisites - Must be having on the client computer before installation
 
 * A copy of JDK/JRE + Netbeans 7.x +
